@@ -1,0 +1,15 @@
+{
+  "name": "arit",
+  "version": "1.0.0",
+  "description": "Arithmetic Geometrics",
+  "main": "arit.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Habib Audu",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}

@@ -1,6 +1,6 @@
 (function(){
   'use strict';
-  // const expect = require('expect.js');
+  
   const expect = require('chai').expect; 
 
   const arit = require('./app/arit.js');
